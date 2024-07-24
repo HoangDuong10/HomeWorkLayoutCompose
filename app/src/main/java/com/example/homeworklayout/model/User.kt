@@ -1,4 +1,4 @@
 package com.example.homeworklayout.model
 
-data class User(var imgAvata : Int,var name : String,var title : List<String>) {
+data class User(val imgAvata : Int,val name : String,val title : List<String>) {
 }
